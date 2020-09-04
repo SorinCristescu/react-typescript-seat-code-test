@@ -1,6 +1,6 @@
 import * as React from "react";
 
-const Header: React.FC = () => {
+const Header: React.FC = (props) => {
   return (
     <div>
       <h1>Header</h1>
