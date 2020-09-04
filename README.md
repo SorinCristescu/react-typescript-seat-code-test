@@ -42,8 +42,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 # react-typescript-seat-code-test
 
-### the app use Formik and Yup to create forms and validation.
+#### the app use Formik and Yup to create forms and validation.
 
-### state management with Redux, and redux-thunk for asynchronous fetching.
+#### state management with Redux, and redux-thunk for asynchronous fetching.
 
-### also it is implemented redux logger and redux-devtools-extension to view and manage the state of the app.
+#### also it is implemented redux logger and redux-devtools-extension to view and manage the state of the app.
