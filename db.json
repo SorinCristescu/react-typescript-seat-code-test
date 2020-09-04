@@ -37,18 +37,6 @@
       "companyName": "Gucci"
     },
     {
-      "id": "U10RK_l6Q",
-      "name": "Sorin Cristescu",
-      "email": "sorin@yahoo.com",
-      "street": "Amaria",
-      "suite": "3",
-      "city": "Hamburg",
-      "zipcode": "345678",
-      "phone": "23097865",
-      "website": "https://www.honorius.io",
-      "companyName": "Honorius Gmbh"
-    },
-    {
       "id": "Usrxo9-D_",
       "name": "Ileana Cosana",
       "email": "cosana@gmail.com",
@@ -56,7 +44,7 @@
       "suite": "44",
       "city": "Bucharest",
       "zipcode": "3452",
-      "phone": "2343534657",
+      "phone": "9343534657",
       "website": "https://www.cosana.com",
       "companyName": "Cosana Srl"
     },
