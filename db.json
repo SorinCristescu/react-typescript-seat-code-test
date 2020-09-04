@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Peter Doe",
+      "email": "peter@gmail.com",
+      "street": "Osaka",
+      "suite": "234",
+      "city": "Barcelona",
+      "zipcode": "234567",
+      "phone": "23546789",
+      "website": "https://www.peter.com",
+      "companyName": "Peter & Sons Ltd."
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "street": "Avenue 55",
+      "suite": "33",
+      "city": "New York",
+      "zipcode": "234235235",
+      "phone": "01234567890",
+      "website": "https://www.johndoe.com",
+      "companyName": "Apple"
+    },
+    {
+      "id": 3,
+      "name": "Maria Grappini",
+      "email": "maria.grappini@gmail.com",
+      "street": "Fontana",
+      "suite": "12",
+      "city": "Roma",
+      "zipcode": "235345",
+      "phone": "35346457",
+      "website": "https://www.grappini.com",
+      "companyName": "Gucci"
+    },
+    {
+      "id": "U10RK_l6Q",
+      "name": "Sorin Cristescu",
+      "email": "sorin@yahoo.com",
+      "street": "Amaria",
+      "suite": "3",
+      "city": "Hamburg",
+      "zipcode": "345678",
+      "phone": "23097865",
+      "website": "https://www.honorius.io",
+      "companyName": "Honorius Gmbh"
+    },
+    {
+      "id": "Usrxo9-D_",
+      "name": "Ileana Cosana",
+      "email": "cosana@gmail.com",
+      "street": "Bucegi",
+      "suite": "44",
+      "city": "Bucharest",
+      "zipcode": "3452",
+      "phone": "2343534657",
+      "website": "https://www.cosana.com",
+      "companyName": "Cosana Srl"
+    },
+    {
+      "id": "oGycBOGAQ",
+      "name": "Marta Adonis",
+      "email": "adonis.marta@yahoo.com",
+      "street": "Kalmar Av.",
+      "suite": "4",
+      "city": "Dresda",
+      "zipcode": "23543646",
+      "phone": "23546436",
+      "website": "https://www.adonis.io",
+      "companyName": "Adonis"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
